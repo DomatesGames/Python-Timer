@@ -1,5 +1,5 @@
 # Python-Timer
-(Note: This .py file is "tomato-timer".)
+(Note: This .py file is "tomato-timer". This repo for the tutorial, original in the my profile.)
 Timer in Python. My project "Tomato Timer" is here (see: tomato-timer). Well, how i write this?
 To wait for a second in the time module:
 
