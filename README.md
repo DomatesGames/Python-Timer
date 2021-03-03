@@ -6,7 +6,8 @@ To wait for a second in the time module:
 time.sleep(1)
 ```
 Ok, nice, let's asking!
-```second = input ("Second? ")
+```
+second = input ("Second? ")
 time.sleep(second)
 ```
 This is very nice but Interpreter might think the answer is a string. Then let's do int. ```int(input ("Second? "))```
