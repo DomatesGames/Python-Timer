@@ -2,7 +2,8 @@
 Timer in Python. My project "Tomato Timer" is here (see: tomato-timer). Well, how i write this?
 To wait for a second in the time module:
 ```import time
-time.sleep(1)```
+time.sleep(1),
+```
 Ok, nice, let's asking!
 ```second = input ("Second? ")
 time.sleep(second)
